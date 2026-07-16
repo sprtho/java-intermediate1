@@ -27,3 +27,5 @@ iter 명령어 -> for loop 생성
 ctrl + B -> 해당 함수에 실 사용부분을 찾아감
 Ctrl + Alt + Left -> 작업의 이전 단계로
 Ctrl + Alt + Right -> 작업의 이전 단계로
+
+soutv -> 변수에 해당하는 System.out.println();

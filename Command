@@ -7,7 +7,7 @@ ctrl + shift + enter -> 자동완성
 
 Ctrl + Alt + V -> Extract/Introduce -> 생성자의 객체 생성 등 변수 생성을 편리하게
 
-ALT + ENTER -> Show Context Action (implement method)
+ALT + ENTER -> Show Context Action (implement method) -> import 추가 등 기능
 
 ctrl + shift + t -> test 소스 생성 (메소드 명 클릭하고)
 
@@ -20,6 +20,8 @@ ctrl + alt + b -> 인터페이스의 구현함수 확인 가능
 ctrl + N -> 전체 소스 검색
 
 ctrl + o -> method overiding
+
+ctrl + alt + n -> 변수 합치기
 
 iter 명령어 -> for loop 생성
 

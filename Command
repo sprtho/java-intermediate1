@@ -23,6 +23,8 @@ ctrl + o -> method overiding
 
 ctrl + alt + n -> 변수 합치기
 
+ctrl + alt + shift + t -> 프로그램 로직을 method로 변환
+
 iter 명령어 -> for loop 생성
 
 -- 함수 실제 선언된 부분을 볼 때 이용
